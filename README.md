@@ -9,6 +9,8 @@ The Reddit data was collected using the [Pushshift API](https://pypi.org/project
 
 The New York Times data was collected using the [NYT Archive API](https://developer.nytimes.com/docs/archive-product/1/overview), and it consists of all articles published in the same time frame.
 
+Open access to both data sets in the [data](./data) folder.
+
 ## Summary of data
 
 A total of 255,783 NYT articles were distilled into 2 sets of 120 topics using the [BERTopic](https://maartengr.github.io/BERTopic/index.html) and [LDA](https://jmlr.csail.mit.edu/papers/v3/blei03a.html) algorithms. 
