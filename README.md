@@ -40,4 +40,4 @@ After cleaning steps, the Reddit data set included 899,766 meme posts. We used s
 
 ## Supplementary figures
 
-The 5-year daily distributions of all topics explored in this project can be found in the [figures](./figures) folder. Daily and monthly distributions for 23 of these topics are displayed and discussed in more detail in the article.
+The 5-year daily distributions of all topics explored in this project can be found in the [figures](./figures) folder or at [this](https://k-barnes.github.io/memes_topicality.html) link. Daily and monthly distributions for 23 of these topics are displayed and discussed in more detail in the article.
