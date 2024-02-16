@@ -6,3 +6,4 @@
 - get_face.ipynb
 - get_colors.ipynb
 - get_emoji.ipynb
+- get_meme_ocr.ipynb
