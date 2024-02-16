@@ -3,3 +3,4 @@
 - exploratory_nyt.ipynb
 
 ## Feature extraction
+- get_face.ipynb
