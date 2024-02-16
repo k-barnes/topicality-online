@@ -5,3 +5,4 @@
 ## Feature extraction
 - get_face.ipynb
 - get_colors.ipynb
+- get_emoji.ipynb
