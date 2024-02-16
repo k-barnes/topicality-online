@@ -40,6 +40,10 @@ After cleaning steps, the Reddit data set included 899,766 meme posts. We used s
 | daily | float | daily average topicality |
 | slope | float | slope of topicality distribution |
 
+## Code files
+
+Python code files with exploratory analysis of the data sets, feature extraction, topic analysis and popularity prediction are available in the [code](./code) folder.
+
 ## Supplementary figures
 
 The 5-year daily distributions of all topics explored in this project can be found in the [figures](./figures) folder or at [this](https://k-barnes.github.io/memes_topicality.html) link. Daily and monthly distributions for 23 of these topics are displayed and discussed in more detail in the article.
