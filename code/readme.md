@@ -1,6 +1,7 @@
-## Exploratory analysis of data sets
+## Exploratory analysis and data cleaning
 - exploratory_memes.ipynb
 - exploratory_nyt.ipynb
+- text_processing.ipynb
 
 ## Feature extraction
 - get_face.ipynb
