@@ -12,3 +12,6 @@
 - get_sentiment.ipynb
 - get_image_captions.ipynb
 - get_ocr.ipynb
+
+## Topics, topicality and prediction
+- LDA_topics.ipynb
