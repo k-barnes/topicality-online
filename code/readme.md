@@ -10,3 +10,4 @@
 - get_viral.ipynb
 - get_sentiment.ipynb
 - get_image_captions.ipynb
+- get_ocr.ipynb
