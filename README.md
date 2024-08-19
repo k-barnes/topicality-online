@@ -4,14 +4,14 @@ Supplementary data for the paper the Topicality Boosts Popularity: A Comparative
 ## How to cite
 
 @article{barnes2024topicality, <br>
->>  title={Topicality boosts popularity: a comparative analysis of NYT articles and Reddit memes}, <br>
->>  author={Barnes, Kate and Juh{\'a}sz, P{\'e}ter and Nagy, Marcell and Molontay, Roland}, <br>
->>  journal={Social Network Analysis and Mining}, <br>
->>  volume={14}, <br>
->>  number={1}, <br>
->>  pages={119}, <br>
->>  year={2024}, <br>
->>  publisher={Springer} <br>
+&nbsp;  title={Topicality boosts popularity: a comparative analysis of NYT articles and Reddit memes}, <br>
+&nbsp;  author={Barnes, Kate and Juh{\'a}sz, P{\'e}ter and Nagy, Marcell and Molontay, Roland}, <br>
+&nbsp;  journal={Social Network Analysis and Mining}, <br>
+&nbsp;  volume={14}, <br>
+&nbsp;  number={1}, <br>
+&nbsp;  pages={119}, <br>
+&nbsp;  year={2024}, <br>
+&nbsp;  publisher={Springer} <br>
 }
 
 ## Source
