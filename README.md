@@ -3,15 +3,15 @@ Supplementary data for the paper the Topicality Boosts Popularity: A Comparative
 
 ## How to cite
 
-@article{barnes2024topicality,
-  title={Topicality boosts popularity: a comparative analysis of NYT articles and Reddit memes},
-  author={Barnes, Kate and Juh{\'a}sz, P{\'e}ter and Nagy, Marcell and Molontay, Roland},
-  journal={Social Network Analysis and Mining},
-  volume={14},
-  number={1},
-  pages={119},
-  year={2024},
-  publisher={Springer}
+@article{barnes2024topicality, \n
+  title={Topicality boosts popularity: a comparative analysis of NYT articles and Reddit memes}, \n
+  author={Barnes, Kate and Juh{\'a}sz, P{\'e}ter and Nagy, Marcell and Molontay, Roland}, \n
+  journal={Social Network Analysis and Mining}, \n
+  volume={14}, \n
+  number={1}, \n 
+  pages={119}, \n
+  year={2024}, \n
+  publisher={Springer} \n
 }
 
 ## Source
