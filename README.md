@@ -3,6 +3,17 @@ Supplementary data for the paper the Topicality Boosts Popularity: A Comparative
 
 ## How to cite
 
+@article{barnes2024topicality,
+  title={Topicality boosts popularity: a comparative analysis of NYT articles and Reddit memes},
+  author={Barnes, Kate and Juh{\'a}sz, P{\'e}ter and Nagy, Marcell and Molontay, Roland},
+  journal={Social Network Analysis and Mining},
+  volume={14},
+  number={1},
+  pages={119},
+  year={2024},
+  publisher={Springer}
+}
+
 ## Source
 
 The Reddit data was collected using the [Pushshift API](https://pypi.org/project/psaw/), and it consists of all posts starting from January 1st, 2018 to November 14th, 2022 from the r/memes subreddits.
